@@ -2,9 +2,7 @@
 #include <math.h>
 
 int main(){
-    /*
-    Lorem Ipsum
-    */
+    /*Lorem Ipsum*/
     printf("Divisas.c\n");
     return 0;
 }
